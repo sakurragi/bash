@@ -1,2 +1,2 @@
-echo "<h1>Testing running jenkins ! </h1>" > index.html
+echo "<h1> Testing Running With github ! </h1>" > index.html
 sudo cp index.html /var/www/html/
